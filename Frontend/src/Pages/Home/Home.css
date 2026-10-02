@@ -1,0 +1,13 @@
+/* Home page responsive layout */
+
+@media (max-width: 750px) {
+    .home {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .home {
+        width: 100%;
+    }
+}
